@@ -1,4 +1,4 @@
-# Hosted Link [expansetry.netlify.app](expansetry.netlify.app)
+# Hosted Link
 
 Open the Site with [https://expansetry.netlify.app/](https://expansetry.netlify.app/)
 
